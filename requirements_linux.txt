@@ -65,3 +65,6 @@ wcwidth==0.2.6
 widgetsnbextension==4.0.8
 wslink==1.11.3
 yarl==1.9.2
+trame
+trame-vtk
+trame-vuetify
