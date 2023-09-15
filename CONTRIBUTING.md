@@ -4,10 +4,12 @@
 
 1. Always work in branches
 2. Try to commit frequently whenever you make a major/minor change. 
-3. Open a pull request and ask the project lead to review it before merging to `main` branch.
-4. Follow the branch naming convention
-5. When making a major change open an issue about it first then begin working on it.
+3. Open a pull request on github and ask the project lead to review it before merging to `main` branch.
+4. Follow the branch naming convention (below)
+5. When making a major change open an issue on github first then begin working on it.
         1. This helps us communicate and document our work and keep an open discussion about things. 
+6. The easiest way to do all of this is to use a front-end for GIT such as Visual Studio Code, github desktop, or git kraken. 
+        1. It's also all doable in the command line. 
 
 #### Branch naming
 
