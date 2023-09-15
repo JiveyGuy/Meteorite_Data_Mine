@@ -6,6 +6,8 @@
 2. Try to commit frequently whenever you make a major/minor change. 
 3. Open a pull request and ask the project lead to review it before merging to `main` branch.
 4. Follow the branch naming convention
+5. When making a major change open an issue about it first then begin working on it.
+        1. This helps us communicate and document our work and keep an open discussion about things. 
 
 #### Branch naming
 
