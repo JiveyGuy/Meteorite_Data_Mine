@@ -12,11 +12,11 @@
 
 1.  Clone the repository to a machine which has a local display (Does not work on a remote server headlessesly)
 ```bash
-git clone https://github.com/JiveyGuy/Metorite_Data_Mine.git
+git clone https://github.com/JiveyGuy/Meteorite_Data_Mine.git
 ```
 2. cd into the directory
 ```bash
-cd Metorite_Data_Mine
+cd Meteorite_Data_Mine
 ```
 3. Setup a python virtual env
 ```bash
