@@ -68,3 +68,8 @@ yarl==1.9.2
 trame
 trame-vtk
 trame-vuetify
+pandas
+matplotlib
+descartes
+geopandas
+shapely
