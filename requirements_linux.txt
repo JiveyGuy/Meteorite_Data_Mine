@@ -73,3 +73,4 @@ matplotlib
 descartes
 geopandas
 shapely
+seaborn
